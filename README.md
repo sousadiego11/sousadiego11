@@ -1,6 +1,6 @@
 ### Olá, como vai? 👋
 [Linkedin](https://www.linkedin.com/in/diego-sousa-108902185/)
-
+[Instagram](https://www.instagram.com/fs.diego/?hl=en)
 ⚡ Descobri o ramo de programação não há muito tempo, e me apaixonei por ele!
 
 🔭 Atualmente estudante em busca de se tornar um grande desenvolvedor.
