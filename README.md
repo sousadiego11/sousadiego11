@@ -1,5 +1,5 @@
 ### Olá, como vai? 👋
-⚡ Fato interessante: Descobri o ramo de programação não há muito tempo, e me apaixonei por ele!
+⚡ Descobri o ramo de programação não há muito tempo, e me apaixonei por ele!
 
 🔭 Atualmente estudante em busca de se tornar um grande desenvolvedor.
 <!--
