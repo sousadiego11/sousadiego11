@@ -2,7 +2,7 @@
 [Linkedin](https://www.linkedin.com/in/diego-sousa-108902185/)
 [Instagram](https://www.instagram.com/fs.diego/?hl=en)
 
-## Um pouco sobre mim:
+#### Um pouco sobre mim:
 
 ⚡ Descobri o ramo de programação não há muito tempo, e me apaixonei por ele!
 
