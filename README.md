@@ -1,5 +1,5 @@
 ### Olá, como vai? 👋
-[Linkedin]{https://www.linkedin.com/in/diego-sousa-108902185/}
+[Linkedin](https://www.linkedin.com/in/diego-sousa-108902185/)
 
 ⚡ Descobri o ramo de programação não há muito tempo, e me apaixonei por ele!
 
