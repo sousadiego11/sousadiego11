@@ -1,6 +1,6 @@
 ### Olá, como vai? 👋
 
-Meu nome é Diego Sousa e atualmente estudo para me tornar um Web Developer!
+Meu nome é Diego Sousa e atualmente estudo para me tornar um Desenvolvedor!
 
 - 📒 Cursando análise e desenvolvimento de sistemas
 
