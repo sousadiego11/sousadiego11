@@ -1,13 +1,13 @@
 ### Olá, como vai? 👋
 
-#### Um pouco sobre mim:
+Meu nome é Diego Sousa e atualmente estudo para me tornar um Web Developer!
 
-⚡ Descobri o ramo de programação não há muito tempo, e me apaixonei por ele!
+- 📒 Cursando análise e desenvolvimento de sistemas
 
-🔭 Atualmente estudante em busca de se tornar um grande desenvolvedor.
 
-[Linkedin](https://www.linkedin.com/in/diego-sousa-108902185/) - 
-[Instagram](https://www.instagram.com/fs.diego/?hl=en)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sousadiego11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sousadiego11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fs.diego/)  
+
+
 
 
 <!--
