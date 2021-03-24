@@ -1,6 +1,6 @@
 ### Olá, como vai? 👋
 
-Meu nome é Diego Sousa, tenho 22 anos e estagiário em desenvolvimento!
+Meu nome é Diego Sousa, tenho 22 anos e sou estagiário em desenvolvimento!
 
 - 📌 Cursando análise e desenvolvimento de sistemas
 
