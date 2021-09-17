@@ -1,6 +1,6 @@
 ### Olá, como vai? 👋
 
-Atualmente corro atrás do sonho de me tornar um desenvolvedor full-stack!
+Meu nome é Diego, sou estágiario Full-stack com objetivo de não parar na evolução da carreira! 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sousadiego11/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fs.diego/)  
 
