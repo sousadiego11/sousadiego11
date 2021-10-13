@@ -1,5 +1,5 @@
-- :sparkles: I'm currently working as a Full-stack developer.
-- :closed_book: My current goal is to work on all my technologies knowleges and build personal projects.
+- I'm currently working as a Full-stack developer.
+- My current goal is to work on all my technologies knowleges and build personal projects.
 
 <div align="left">
   <a href="https://github.com/sousadiego11">
