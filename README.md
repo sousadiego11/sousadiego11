@@ -1,6 +1,5 @@
-### Olá, como vai? 👋
-
-Meu nome é Diego, sou estágiario Full-stack com objetivo de não parar na evolução da carreira!
+### Hello! 👋
+- :computer: Currently working as a Full-stack developer.
 
 <div align="left">
   <a href="https://github.com/sousadiego11">
