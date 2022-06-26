@@ -1,4 +1,4 @@
-- I'm currently working as a Full-stack junior developer.
+- I'm currently working as a Full-stack developer.
 - My current goal is to work on all my technologies knowleges and build personal projects.
 
 <div align="left">
