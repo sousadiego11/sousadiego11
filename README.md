@@ -1,5 +1,4 @@
-- I'm currently working as a Full-stack developer.
-- My current goal is to work on all my technologies knowleges and build personal projects.
+### Full-stack Developer focused on reducing complexity and designing modular, scalable applications.
 
 <div align="left">
   <a href="https://github.com/sousadiego11">
