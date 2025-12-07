@@ -1,11 +1,12 @@
 ### Full-stack Developer focused on reducing complexity and designing modular, scalable applications.
 
-<div align="left">
+<div style="display: flex; flex-direction: row; gap: 10px;" align="left">
   <a href="https://github.com/sousadiego11">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sousadiego11&theme=2077"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sousadiego11&theme=2077"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousadiego11&show_icons=true&include_all_commits=true&count_private=true&tsdsfs=sdfdsf"/> -->
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousadiego11&layout=compact&langs_count=16&tsdsfs=sdfdsf"/> -->
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sousadiego11&theme=2077"/>
+  </a>
+  <a href="https://github.com/sousadiego11">
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sousadiego11&theme=2077"/>
+  </a>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Diego-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
