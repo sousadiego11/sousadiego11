@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-direction: row; gap: 10px;" align="left">
   <a href="https://github.com/sousadiego11">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sousadiego11&theme=2077"/>
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sousadiego11&theme=2077"/>
   </a>
   <a href="https://github.com/sousadiego11">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sousadiego11&theme=2077"/>
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sousadiego11&theme=2077"/>
   </a>
 </div>
   <div style="display: inline_block"><br>
