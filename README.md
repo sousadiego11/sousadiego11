@@ -1,4 +1,4 @@
-### Full-stack Developer focused on reducing complexity and designing modular, scalable applications.
+### Backend Software Engineer focused on scalable systems, distributed architectures, and performance optimization.
 
 <div style="display: flex; flex-direction: row; gap: 10px;" align="left">
   <a href="https://github.com/sousadiego11">
